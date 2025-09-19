@@ -14,11 +14,18 @@
 
 - Formula 1
 - Futbol
-- Video jocs
+- Videojocs
 
 ---
 
-### 4. Circuits que més m'agradan de ls F1
+### 4. Estudis
+
+1. **Eso**
+  Ventura Gassol (2021-2025) 
+
+---
+
+### 5. Circuits que més m'agradan de ls F1
 
 - Spa
 - Silverstone
@@ -26,10 +33,9 @@
 
 ---
 
-### 5. Xarxes socials
+ 
 
-- Instagram: (https://www.instagram.com/leomessi/)
-- Youtube: (https://www.youtube.com/djmariio)
+
 
 
 
