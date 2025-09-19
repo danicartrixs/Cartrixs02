@@ -1,20 +1,20 @@
 # 1. Introduccio
-> "Soc un apassionat de la F1. M'encanta veure els cotxes corrent als circuits."
+> "Soc un apassionat de la Formula 1 i del futbol. M'agradan els esports.
 
 ---
 
 ### 2. Dades personals
 
-**Nom**: Daniel Carrasco
-**Ubicacio**: Barcelona, Catalunya
+- **Nom**: Daniel Carrasco
+- **Ubicacio**: Barcelona, Catalunya
 
 ---
 
 ### 3. Aficions 
 
--Formula 1
--Futbol
--Video jocs
+- Formula 1
+- Futbol
+- Video jocs
 
 ---
 
