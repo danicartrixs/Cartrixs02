@@ -18,6 +18,19 @@
 
 ---
 
-### 4.
+### 4. Circuits que més m'agradan de ls F1
+
+- Spa
+- Silverstone
+- Barcelona
+
+---
+
+### 5. Xarxes socials
+
+- Instagram: (https://www.instagram.com/leomessi/)
+
+
+
 
 
