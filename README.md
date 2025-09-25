@@ -10,7 +10,7 @@
 
 ---
 
-### 3. Aficions 
+### 3. Aficion
 
 - Formula 1
 - Futbol
