@@ -21,16 +21,13 @@
 ### 4. Estudis
 
 1. **Eso**
-  Ventura Gassol (2021-2025) 
+  Ventura Gassol (2021-2025)
+2. **Primaria**
+   Escola Montigala (2012-2021)
 
 ---
 
-### 5. Circuits que més m'agradan de ls F1
-
-- Spa
-- Silverstone
-- Barcelona
-
+### 5. 
 ---
 
  
