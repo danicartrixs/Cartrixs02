@@ -16,7 +16,7 @@
 - Formula 1
 - Futbol
 - Videojocs
-- Running
+- Gym
 
 ---
 
