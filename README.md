@@ -7,6 +7,7 @@
 
 - **Nom**: Daniel Carrasco
 - **Ubicacio**: Barcelona, Catalunya
+- **Correu electronic**: danielcarrascogarrido@elpuig.xeill.net
 
 ---
 
